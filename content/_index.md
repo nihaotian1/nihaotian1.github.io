@@ -66,6 +66,7 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        [2026-03-03] A paper accepted by CVPR 2026! Thanks to all co-authors! 🎉🎉🎉
         [2025-05-01] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
     design:
       columns: '1'
