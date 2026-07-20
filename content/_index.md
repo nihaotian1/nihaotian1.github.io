@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an undergraduate student at Beihang University, majoring in Computer Science. I have a strong interest in Artificial Intelligence, with a focus on developing a world model that can understand and generate content accordingly. My research interests lie in Multimodal Learning (including alignment, learning theory, and MLLMs) and Generative Models (particularly Diffusions).
+        I have a strong interest in Artificial Intelligence and Machine Learning, with a focus on developing a unified model that can understand and generate content accordingly. My research interests lie in multimodal learning and large multimodal foundation models.
 
         Please reach out to collaborate 😃
     design:
@@ -66,7 +66,10 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        [2026-03-13] Our work MIBench has been released on arXiv.
+
         [2026-03-03] A paper accepted by CVPR 2026! Thanks to all co-authors! 🎉🎉🎉
+
         [2025-05-01] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
     design:
       columns: '1'
